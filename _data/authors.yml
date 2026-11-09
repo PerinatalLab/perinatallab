@@ -7,6 +7,7 @@ Hedvig Sundelin:
   avatar      : "hedvig-sundelin.png"
   linkedin    : "hedvig-sundelin-20623438"
   github      : "hedvigsun"
+  orcid       : "0009-0005-0457-8920"
 
 Pol Sole:
   name        : "Pol Solé Navais"
@@ -23,6 +24,7 @@ Karin Ytterberg:
   avatar      : "kariny.jpg"
   github      : "ykarin97"
   role        : "PhD Student"
+  orcid       : "https://orcid.org/0000-0002-4314-1546"
 
 Ylva Folkesson:
   name        : "Ylva Folkesson"
@@ -39,14 +41,17 @@ Bo Jacobsson:
   name        : "Bo Jacobsson"
   role        : "Team Leader"
   avatar      : "bo-jacobsson.jpg"
-
-Felix Evers:
-  name        : "Felix Evers"
-  role        : "PhD"
+  orcid       : "https://orcid.org/0000-0001-5079-2374"
 
 Julius Juodakis:
   name        : "Julius Juodakis"
   avatar      : "julius_1_orig.jpg"
+  orcid       : "https://orcid.org/0000-0001-5600-974X"
+
+Bin Han:
+  name        : "Bin Han"
+  orcid       : "https://orcid.org/0000-0001-7124-2056"
+  role        : "Post doc"
 
 Nina Abersek:
   name        : "Nina Abersek"
@@ -55,3 +60,12 @@ Nina Abersek:
 Patricia Nyeboe:
   name        : "Patricia Nyeboe"
   avatar      : "patricia-johansson.jpg"
+
+Xiaoping Wu:
+  name        : "Xiaoping Wu"
+  orcid       : "https://orcid.org/0000-0002-7844-1397"
+  role        : "Researcher"
+
+Felix Evers:
+  name        : "Felix Evers"
+  orcid       : "https://orcid.org/0009-0003-2998-4488"
