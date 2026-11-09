@@ -17,7 +17,7 @@ feature_row:
     alt: "genetics"
     title: "Genetics"
     excerpt: "Cohort Based"
-    url: "/research/genetics/"
+    url: "/research/genetic-studies/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /icons/stat.png
